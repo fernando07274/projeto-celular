@@ -31,3 +31,11 @@ section#telefone{
     transform: translate(-50%, -50%);
     background: url(../pacote-d013/imagens/frame-iphone.png) no-repeat;
 }
+iframe{
+    width: 267px;
+    height: 468px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
